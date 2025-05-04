@@ -1,0 +1,61 @@
+body {
+    background: #1e1e2f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .game-container {
+    max-width: 500px;
+    margin: auto;
+    background: #2a2a3f;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+  }
+  
+  #click-btn {
+    padding: 15px 25px;
+    font-size: 1.2rem;
+    background: #ffcc00;
+    border: none;
+    border-radius: 10px;
+    margin: 20px 0;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  #click-btn:hover {
+    background: #ffe066;
+  }
+  
+  .vbucks-counter {
+    font-size: 1.5rem;
+    margin: 15px 0;
+  }
+  
+  #shop button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    background: #444;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  #shop button:hover {
+    background: #666;
+  }
+  
+  .autosave {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #aaa;
+  }
+  
